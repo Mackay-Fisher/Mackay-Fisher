@@ -1,3 +1,4 @@
+
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Mackay-Fisher" alt="Mackay-Fisher"/>
 </p>
@@ -12,19 +13,19 @@
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 	</a>
 </p>
+<p>
+Hey there my name is Mackay Fisher I'm a versatile software developer with a robust background as a full-stack and machine learning engineer, currently making strides as a junior developer at Forglayer and preparing to embark on a new journey with Texas Instruments. Amidst maintaining a perfect 4.0 GPA in dual majors in Computer Science and Applied Mathematics at Texas A&M, I've delved deep into the realms of Angular, React, Vue, TypeScript, C#, and more, catering to a broad spectrum of web development necessities. My passion doesn't stop at coding; it extends to unraveling the complexities of data through Machine Learning, aiming to transform intricate datasets into clear insights. I'm on a continuous quest for personal and collective growth, eagerly seeking opportunities for collaboration and innovation. Let's connect and pave the way for future advancements together!
+</p>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" width="" alt="nodejs" src="https://kinsta.com/wp-content/uploads/2022/06/angular-logo.png"></code> 
 
-<h2 align="center"> About Me
-	<p>
-		👋 Hey there! I'm a dedicated software developer with a passion for code and personal growth. Currently, I'm a junior at Texas A&M taking advantage of a full scholarship, pursuing dual majors in Computer Science and Applied Mathematics with a 4.0 GPA.
-
-My professional and personal projects have been an innovation playground for me. Machine Learning and Natural Language Processing fascinate me. Drawing on a solid foundation of math and an unyielding pursuit of optimization, I work to simplify the complex and transform raw data into insight. I've also honed skills in modern frameworks, navigated the world of REST API calls, and followed my curiosity into mobile applications to build bridges between user experience and technical excellence.
-
-Not everything is about personal development – I also believe in collective growth. I'm on the lookout for opportunities to collaborate, learn, and evolve alongside fellow enthusiasts, feeding a healthy cycle of personal and collective growth.
-
-So whether you’re here to explore my projects, share insights, or discuss potential collaborations, I'm excited to connect with you. Feel free to reach out – cheers to progress, passion, and perpetual learning!
-	</p>
-</h2>
 
 <div align="center">
-  <br><img src="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher"><br> 
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="200" width = "400" src="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="166" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackay-Fisher&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
+
