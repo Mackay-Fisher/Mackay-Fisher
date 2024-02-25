@@ -13,10 +13,7 @@
 	</a>
 </p>
 
-<h2 align="center"> My Stats
-   <a href="https://www.linkedin.com/in/mackay-fisher/">
-     <br><img src="https://github.com/bsovs/bsovs/blob/main/github-metrics.svg"><br> 
-  </a>
+<h2 align="center"> About Me
 </h2>
 
 <div align="center">
