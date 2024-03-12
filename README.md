@@ -14,7 +14,7 @@
 	</a>
 </p>
 <p>
-Hey, there my name is Mackay Fisher I'm a versatile software developer with a robust background as a full-stack and machine-learning engineer, currently making strides as a junior developer at Forglayer and preparing to embark on a new journey with Texas Instruments. I'm on a continuous quest for personal and collective growth, eagerly seeking opportunities for collaboration and innovation. Join me on my new journey as I begin working through the exciting world of competitive programming. Let's connect and pave the way for future advancements together! 
+Hey, there my name is Mackay Fisher I'm a versatile software developer with a background as a full-stack and machine-learning engineer, working as a junior developer at Forglayer and preparing to embark on a new journey with Texas Instruments. I'm eagerly seeking opportunities for collaboration and innovation. Let's connect and pave the way for future advancements together! 
 </p>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
