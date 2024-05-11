@@ -23,7 +23,8 @@ Hey, there my name is Mackay Fisher I'm a versatile software developer with a ba
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" width="" alt="nodejs" src="https://kinsta.com/wp-content/uploads/2022/06/angular-logo.png"></code> <code><img height="20" width="" alt="nodejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"></code> 
 <code><img height="20" width="" alt="nodejs" src="https://pbs.twimg.com/profile_images/1676657968073564160/DvRo44u5_400x400.jpg"></code> 
- 
+ <br/>
+ <br/>
 <div align="center">
 <!--     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="200" width = "400" src="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>   -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="166" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackay-Fisher&layout=compact&theme=buefy&hide_border=true" /></a>
