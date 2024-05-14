@@ -26,7 +26,7 @@ Hey, there my name is Mackay Fisher I'm a versatile software developer with a ba
  <br/>
  <br/>
 <div align="center">
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="200" width = "400" src="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>   -->
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="200" width = "400" src="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="166" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackay-Fisher&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 
