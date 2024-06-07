@@ -25,12 +25,9 @@ Hey, there my name is Mackay Fisher I'm a versatile software developer with a ba
 <code><img height="20" width="" alt="nodejs" src="https://pbs.twimg.com/profile_images/1676657968073564160/DvRo44u5_400x400.jpg"></code> 
  <br/>
  <br/>
- 
- #
- 
  <div align="center">
-	<a href="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=false&count_private=false)"><img align="center" height="200" width = "400" src="[https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true](https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" alt="Anurag's github stats" /></a>  
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><img align="center" height="200" width = "400" src="[https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" alt="Anurag's github stats" /></a>   
+	<a href="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=false&count_private=false)"><img align="center" height="200" width = "400" src="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Anurag's github stats" /></a>  
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><img align="center" height="200" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Anurag's github stats" /></a>   
  </div>
  
 # 💻 Tech Stack:
