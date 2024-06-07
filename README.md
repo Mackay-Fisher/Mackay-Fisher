@@ -14,7 +14,7 @@
 	</a>
 </p>
 <p>
-Hey, there my name is Mackay Fisher I'm a versatile software developer with a background as a full-stack and machine-learning engineer, working as a junior developer at Forglayer and preparing to embark on a new journey with Texas Instruments. I'm eagerly seeking opportunities for collaboration and innovation. Let's connect and pave the way for future advancements together! 
+Hey, there my name is Mackay Fisher I'm a versatile software developer with a background as a full-stack and machine-learning engineer, working as a junior developer at Forglayer and preparing to embark on a new journey with Texas Instruments. I'm eagerly seeking opportunities for collaboration and innovation.
 </p>
  <br/>
  <br/>
