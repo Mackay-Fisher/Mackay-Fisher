@@ -21,6 +21,10 @@ Hey, there my name is Mackay Fisher I'm a software developer with a background i
 <!--  <div align="center" style="display:flex; justify-content: space-between;">
 	<a href="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=false&count_private=false)"><img align="center" height="200" width = "400" src="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Anurag's github stats" /></a>  
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><img align="center" height="200" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Anurag's github stats" /></a>   
+    ## Compiler:
+![LLVM](https://en.wikipedia.org/wiki/LLVM#/media/File:LLVM_logo.png)
+![Clang](https://isocpp.org/files/img/llvm.png)
+![MLIR](https://en.wikipedia.org/wiki/MLIR_%28software%29#/media/File:MLIR_Logo.svg)
  </div> -->
 
 ## Languages:
@@ -38,10 +42,7 @@ Hey, there my name is Mackay Fisher I'm a software developer with a background i
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-## Compiler:
-![LLVM](https://en.wikipedia.org/wiki/LLVM#/media/File:LLVM_logo.png)
-![Clang](https://isocpp.org/files/img/llvm.png)
-![MLIR](https://en.wikipedia.org/wiki/MLIR_%28software%29#/media/File:MLIR_Logo.svg)
+
 
 ## Machine Learning:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
