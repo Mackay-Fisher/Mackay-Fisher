@@ -14,7 +14,7 @@
 	</a>
 </p>
 <p>
-Hey, there my name is Mackay Fisher I'm a versatile software developer with a background in full-stack development, computer architecture and machine learning working at Texas Instruments. I'm eagerly seeking opportunities for collaboration and innovation.
+Hey, there my name is Mackay Fisher I'm a software developer with a background in full-stack development, computer architecture, and machine learning working at Texas Instruments. I'm focused on compiler optimizations and all things LLVM and MLIR.
 </p>
 <!--  <br/>
  <br/> -->
@@ -22,7 +22,7 @@ Hey, there my name is Mackay Fisher I'm a versatile software developer with a ba
 	<a href="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=false&count_private=false)"><img align="center" height="200" width = "400" src="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Anurag's github stats" /></a>  
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><img align="center" height="200" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mackay-Fisher&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Anurag's github stats" /></a>   
  </div> -->
- 
+
 ## Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
