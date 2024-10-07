@@ -50,7 +50,7 @@ Hey, there my name is Mackay Fisher I'm a software developer with a background i
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 📊 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mackay-Fisher&theme=tokyonight)| width=100](https://github.com/Mackay-Fisher)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=tokyonight&show_icons=true)| width=100](https://github.com/Mackay-Fisher)
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mackay-Fisher&theme=tokyo-night&height=300&area=true)| width=800](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mackay-Fisher&theme=tokyonight)](https://github.com/Mackay-Fisher)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=tokyonight&show_icons=true)](https://github.com/Mackay-Fisher)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mackay-Fisher&theme=tokyo-night&height=300&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Leetcode Stats](https://leetcode.com/u/Mackay-Fisher/)](https://leetcode.com/u/Mackay-Fisher/)
