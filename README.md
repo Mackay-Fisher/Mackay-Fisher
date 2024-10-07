@@ -43,6 +43,7 @@ Hey, there my name is Mackay Fisher I'm a software developer with a background i
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=16bitnarwhal&layout=compact&langs_count=8&hide=shaderlab,hlsl,css,cmake&theme=tokyonight)](https://github.com/Mackay-Fisher)
 
 
 ## Machine Learning:
