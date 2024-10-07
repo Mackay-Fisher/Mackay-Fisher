@@ -53,4 +53,3 @@ Hey, there my name is Mackay Fisher I'm a software developer with a background i
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mackay-Fisher&theme=tokyonight)](https://github.com/Mackay-Fisher)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=tokyonight&show_icons=true)](https://github.com/Mackay-Fisher)
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mackay-Fisher&theme=tokyo-night&height=300&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Leetcode Stats](https://leetcode.com/u/Mackay-Fisher/)](https://leetcode.com/u/Mackay-Fisher/)
