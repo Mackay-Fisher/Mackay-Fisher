@@ -56,7 +56,7 @@ Hey, there my name is Mackay Fisher I'm a software developer with a background i
     <img src="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=tokyonight&show_icons=true" width="400" alt="GitHub stats"/>
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mackay-Fisher&theme=tokyo-night&area=true" width="800" alt="Github activity graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mackay-Fisher&theme=tokyo-night&area=true" width="825" alt="Github activity graph"/>
   </a>
 </div>
 
