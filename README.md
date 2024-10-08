@@ -50,7 +50,7 @@ Hey, there my name is Mackay Fisher I'm a software developer with a background i
 ## 📊 My Stats
 <div>
   <a href="https://github.com/Mackay-Fisher">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Mackay-Fisher&theme=tokyonight" width="400"alt="GitHub Streak"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Mackay-Fisher&theme=tokyonight" width="400" height="200" alt="GitHub Streak"/>
   </a>
   <a href="https://github.com/Mackay-Fisher">
     <img src="https://github-readme-stats.vercel.app/api?username=Mackay-Fisher&theme=tokyonight&show_icons=true" width="400" alt="GitHub stats"/>
